@@ -30,11 +30,11 @@ Here is the complete usage documentation, also accessible on `/usage.html`:
 ```
 # Take a screenshot
 GET /?url=www.google.com
-# Return a 1024x600 PNG screenshot of the www.google.com homepage
+# Return a 1024x600 PNG screenshot of the www.google.com homepage.
 
 # Custom viewport size
 GET /?url=www.google.com&width=800&height=600
-# Return a 800x600 PNG screenshot of the www.google.com homepage
+# Return a 800x600 PNG screenshot of the www.google.com homepage.
 
 # Disable JavaScript
 GET /?url=www.google.com&javascriptEnabled=false
@@ -161,3 +161,4 @@ IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY
 CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT,
 TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE
 SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
+THANK YOU!
